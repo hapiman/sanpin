@@ -1,5 +1,7 @@
 # 三拼
-收集常见的好工具
+收集常见的好工具。
+
+财富取决于**很少**的**大高潮**，幸福取决于**很多**的**小高潮**。
 
 # 分类
 
@@ -13,8 +15,15 @@
 - [top系列](https://www.printf520.com/hot.html)
 每日收集各大网站的top文章。
 
+- [今日热榜](https://tophub.today/)
+
 - [TableConvert](https://tableconvert.com/)
 表格转化工具，能够在Excel、Markdown、Csv、Sql等之间互相转化。
+
+## 信息聚合
+- [考拉新媒体导航](https://www.kaolamedia.com)
+- [知识星球推荐](http://www.zsxq100.com/)
+- [跨境电商巴适网站](http://www.amz123.com)
 
 ## 其他工具
 - [Mac版微信的功能拓展](https://github.com/MustangYM/WeChatExtension-ForMac)
@@ -25,3 +34,9 @@
 - [Github的Star管理](https://github.com/hapiman/fin-circle/blob/master/docs/20190619_%E4%BD%A0star%E8%BF%87%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%B0%B1%E4%B8%8D%E7%AE%A1%E4%BA%86%E5%90%97%EF%BC%9F.md)
 
 - [AsciiMath 在浏览器中编辑你想要的数学公式 ](http://asciimath.org/)
+
+# 公众号
+
+关注公众号`“程序员的金融圈”`，加入`探讨技术、金融、赚钱的小圈子`。
+
+![](https://camo.githubusercontent.com/94423ed213d6109caab25f3489e4f998dd907200/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f362f392f313662333936373431323666633066303f696d61676556696577322f302f772f313238302f682f3936302f666f726d61742f776562702f69676e6f72652d6572726f722f31)
