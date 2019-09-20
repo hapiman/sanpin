@@ -7,8 +7,9 @@
 
 ## 程序开发
 - [开发工具集合](https://oktools.net/)
+- [JSON在线解析](https://www.sojson.com/convert/datastore.html),包括常见的JSON数据解析及加解密以及其他常用的工具
 ![](https://github.com/hapiman/sanpin/blob/master/images/del-tools.png?raw=true)
-- [IP代理-还不错](https://ip.ihuan.me)
+- [IP代理-还不错，包含了是否支持POST或者HTTPS代理](https://ip.ihuan.me)
 
 ## 日常便利
 - [动态二维码](https://wenjian.pythonanywhere.com/)
